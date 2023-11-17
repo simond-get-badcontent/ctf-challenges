@@ -1,1 +1,1 @@
-You've got to files, one image and one text-file. What next?
+You've got two files, one image and one text-file. What next?
